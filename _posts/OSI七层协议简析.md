@@ -1,10 +1,10 @@
 
 ---
-layout: post
-title: OSI七层协议简析
-subtitle: 协议的七层架构
-date: 2020-04-14
-author: Manlok
+layout:     post
+title:      OSI七层协议简析
+subtitle:   协议的七层架构
+date:       2020-04-14
+author:     Manlok
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
