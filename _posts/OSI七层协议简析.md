@@ -1,4 +1,16 @@
-
+---
+layout:     post
+title:      ReactiveCocoa 进阶
+subtitle:   函数式编程框架 ReactiveCocoa 进阶
+date:       2017-01-06
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - 计算机网络
+    - 后端开发知识点
+    - 面试
+---
 	• 应用层
 		○ 支持用户通过用户代理（如浏览器）或网络接口使用网络（服务）
 		○ 典型的应用层服务：
