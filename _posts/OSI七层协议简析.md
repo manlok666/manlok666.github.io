@@ -1,4 +1,16 @@
-
+---
+layout:     post
+title:      OSI七层协议简析
+subtitle:   协议的七层架构
+date:       2020-04-14
+author:     Manlok
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - 计算机网络
+    - 后端开发知识点
+    - 面试
+---
 	• 应用层
 		○ 支持用户通过用户代理（如浏览器）或网络接口使用网络（服务）
 		○ 典型的应用层服务：
